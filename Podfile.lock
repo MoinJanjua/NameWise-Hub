@@ -1,0 +1,24 @@
+PODS:
+  - FLAnimatedImage (1.0.17)
+  - FSPagerView (0.8.3)
+  - lottie-ios (4.5.0)
+
+DEPENDENCIES:
+  - FLAnimatedImage
+  - FSPagerView
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - FLAnimatedImage
+    - FSPagerView
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: bbf914596368867157cc71b38a8ec834b3eeb32b
+  FSPagerView: 670405b2f18e2a87fa37f20b00de783e562c25a8
+  lottie-ios: a881093fab623c467d3bce374367755c272bdd59
+
+PODFILE CHECKSUM: fea150966e26600153f333a1c734f3f0c6d6e105
+
+COCOAPODS: 1.15.2
